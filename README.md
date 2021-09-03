@@ -28,7 +28,6 @@
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/angular-3-226070.png" width="200"></td>
   </tr>
   <tr>
-    
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="200"></td>
