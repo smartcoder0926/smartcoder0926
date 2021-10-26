@@ -124,6 +124,10 @@
     </tr>       
 </table>
 
+> GitHub Activity Graph
+
+<a href="https://github.com/fairyland0926/fairyland0926"><img alt="fairyland0926's activity graph" src="https://activity-graph.herokuapp.com/graph?username=fairyland0926&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+
 #### I am a blockchain developer in senior level and work in DeFi projects.
 - Forks of PancakeSwap, GooseDeFi, PantherSwap, MaticSwap.
 - NFT marketplaces like Rarible, Cryptopunk with OpenSea integration.
