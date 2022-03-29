@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=BlockChain%20Developer;Web%20and%20Mobile%20Master;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/smartcoder0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=BlockChain%20Developer;Web%20and%20Mobile%20Master;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <p align='center'>
  <h1 align="center">
@@ -8,10 +8,10 @@
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
   <a href="https://join.skype.com/invite/zqVb0AjH4liM"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 </h1>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=fairyland0926.fairyland0926" />
-<img align="right" src="https://img.shields.io/github/followers/fairyland0926?label=Follow&style=social" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=smartcoder0926.smartcoder0926" />
+<img align="right" src="https://img.shields.io/github/followers/smartcoder0926?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=fairyland0926&show_icons=true&theme=merko&count_private=true" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=smartcoder0926&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyond7&layout=compact&theme=monokai&count_private=true">
 <img height="150px" />
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
@@ -126,7 +126,7 @@
 
 > GitHub Activity Graph
 
-<a href="https://github.com/fairyland0926/fairyland0926"><img alt="fairyland0926's activity graph" src="https://activity-graph.herokuapp.com/graph?username=fairyland0926&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<a href="https://github.com/smartcoder0926/smartcoder0926"><img alt="smartcoder0926's activity graph" src="https://activity-graph.herokuapp.com/graph?username=smartcoder0926&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 #### I am a blockchain developer in senior level and work in DeFi projects.
 - Forks of PancakeSwap, GooseDeFi, PantherSwap, MaticSwap.
